@@ -1,0 +1,11 @@
+* {
+  border: 2px solid red;
+}
+
+#parent {
+  color:red;
+}
+
+.child {
+  color:blue;
+}
